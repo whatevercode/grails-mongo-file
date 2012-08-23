@@ -37,7 +37,7 @@ grails.project.dependency.resolution = {
             export = false
         }
         
-        runtime(":mongodb:1.0.0.RC3")
+		compile ":mongodb:1.0.0.GA"
     }
 }
 
